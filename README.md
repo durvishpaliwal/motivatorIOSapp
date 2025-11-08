@@ -17,9 +17,14 @@ I created it for myself as I did not want to pay for the high money sucking moti
 
 ## Screenshots
 
-- iPhone home screen widget  
+- iPhone home screen widget
+<img width="344" height="781" alt="Screenshot 2025-11-08 at 05 35 30" src="https://github.com/user-attachments/assets/f3bce1a0-60f8-441d-852e-068fbcc3246f" />
+
+- 
 - Apple Watch display  
-*(Add your images here when available)*
+<img width="247" height="366" alt="Screenshot 2025-11-08 at 05 35 37" src="https://github.com/user-attachments/assets/2c6a3d94-b266-4c8d-a55c-3441b8cdce73" />
+
+
 
 ## Tech Stack
 
